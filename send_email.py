@@ -35,7 +35,7 @@ def send_email(receiver_email, subject, body):
         msg['From'] = sender_email
         msg['To'] = receiver_email
         msg['Subject'] = subject
-        # 将正文添加到邮件中
+        # Add body to email
         msg.attach(MIMEText(body, 'plain'))
 
         # create SMTP session
