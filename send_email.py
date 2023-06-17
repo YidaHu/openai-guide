@@ -40,7 +40,7 @@ def send_email(receiver_email, subject, body):
 
         # create SMTP session
         with smtplib.SMTP_SSL(smtp_server, smtp_port) as server:
-            server.login(sender_email, password)  # 替换为发件人的密码
+            server.login(sender_email, password)  # sender email password
 
             # send the email
             server.send_message(msg)
