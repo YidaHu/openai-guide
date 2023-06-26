@@ -4,7 +4,7 @@ This repository contains examples and documentation for utilizing function calli
 # Example List
 Within this repository, you will find the following examples:
 
-Example 1: [Query Weather](query-weather.py) -  In this example, we demonstrate how to use function calling with OpenAI to retrieve real-time weather information. 
+Example 1: [Query Weather](query_weather.py) -  In this example, we demonstrate how to use function calling with OpenAI to retrieve real-time weather information. 
 
 Example 2: [Send Emails](send_email.py) - In this example, we demonstrate how to use function calling with OpenAI to send emails.
 
