@@ -1,4 +1,4 @@
-# OpenAI Function Calling
+# OpenAI Guide
 This repository contains examples and documentation for utilizing function calling with OpenAI. Explore the provided code and explanations to learn how to effectively leverage OpenAI's function calling feature for various tasks and applications.
 
 # Example List
