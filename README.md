@@ -11,8 +11,5 @@ Example 2: [Send Emails](send_email.py) - In this example, we demonstrate how to
 # Usage Instructions
 Each example is accompanied by detailed documentation and code samples. Click on the provided links to access them. Feel free to copy and modify the example code to suit your project requirements.
 
-# Contributions
-Contributions are welcome! If you have any improvements or new examples to contribute to this repository, please submit a pull request. We value community involvement in enhancing the understanding and utilization of OpenAI's function calling feature.
-
 # License
 This project is licensed under the Apache License 2.0. Please ensure compliance with the license when using or modifying the example code.
